@@ -1,4 +1,2 @@
-# Coursera_test
-test repo for coursera
-new test
-test test test
+# KnowledgeRepo
+Small app for organizing and sharing knowledge in groups.
